@@ -1,8 +1,7 @@
-
+//Hirad's Assingment 4 Rabbit_and_Turtle
 //Variable that that stores The Cat Png and The Dog Png
 PImage currentImage;
 PImage currentImages;
-//Hirad's Assingment 4 Rabbit_and_Turtle
 
 //The Cat's X and Y Locations
 int Picture1X;
